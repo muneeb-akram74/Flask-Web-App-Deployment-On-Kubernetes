@@ -1,6 +1,6 @@
-# Flask Web App Deployment on Kubernetes 🚀
+# Flask Web App Deployment on Kubernetes 
 
-This project demonstrates how to **containerize and deploy a Flask web application** on a **Kubernetes cluster using Minikube**. It serves as a hands-on guide for beginners to learn Kubernetes fundamentals. 💡
+This project demonstrates how to **containerize and deploy a Flask web application** on a **Kubernetes cluster using Minikube**. It serves as a hands-on guide for beginners to learn Kubernetes fundamentals. 
 
 ##  Project Overview
 
